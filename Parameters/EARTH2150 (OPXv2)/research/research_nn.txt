@@ -1,0 +1,2 @@
+"category"	"objectID"	"neededResearches"	"mesh"	"meshParamsIndex"	"priceCampaign"	"priceSingle"	"timeCampaign"	"timeSingle"	"video"
+"Special"	RES_MISSION_PACK1_ONLY	"RES_MISSION_PACK1_ONLY"	""	1	0	0	0	0	""

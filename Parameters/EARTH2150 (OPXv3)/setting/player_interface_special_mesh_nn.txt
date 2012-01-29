@@ -1,0 +1,2 @@
+"group"	"objectID"	"neededResearches"	"wallMesh"	"narrowBridgeMesh"	"wideBridgeMesh"	"narrowTunnelMesh"	"wideTunnelMesh"	"flatMesh"	"trenchMesh"	"roadMesh"	"wallParamsIndex"	"narrowBridgeParamsIndex"	"wideBridgeParamsIndex"	"narrowTunnelParamsIndex"	"wideTunnelParamsIndex"	"flatParamsIndex"	"trenchParamsIndex"	"roadParamsIndex"
+"PLAYER_INTERFACE_SPECIAL_MESHES"	PLAYER_INTERFACE_SPECIAL_MESHES	""	"NEXWALL"	"NEXBRIDGE1"	"NEXBRIDGE2"	"NEXTUNNEL1"	"NEXTUNNEL2"	"NEXFLAT"	"NEXTRENCH"	"NEXWALL"	2	2	2	2	2	2	2	2

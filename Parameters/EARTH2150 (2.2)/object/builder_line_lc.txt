@@ -1,0 +1,2 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"hp"	"regenerationHP"	"armor"	"calorificCapacity"	"disableResist"	"storeableFlags"	"standType"
+"LCUBULINE"	LCUBULINE	""	"PYLASERBU"	0	0	0	100	""	""	""	""	600	0	25	100	200	0	0

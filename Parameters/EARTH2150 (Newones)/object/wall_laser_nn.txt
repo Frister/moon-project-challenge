@@ -1,0 +1,2 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"hp"	"regenerationHP"	"armor"	"calorificCapacity"	"disableResist"	"storeableFlags"	"standType"
+"WLASER"	WLASER	""	"PYLASERLC"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0

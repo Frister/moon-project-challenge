@@ -1,0 +1,8 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"hp"	"regenerationHP"	"armor"	"calorificCapacity"	"disableResist"	"storeableFlags"	"standType"	"type"	"rocketType"	"missileSize"	"$rocketDummyID"	"isAntiRocketTarget"	"speed"	"timeOfShoot"	"plusRangeOfFire"	"hitType"	"hitRange"	"typeOfDamage"	"damage"	"$explosionID"
+"MIS_EDART"	MIS_EDART	""	"NEMG"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	10	0	0	""	0	64	0	0	1	4	2	2000	"EXP_FIRE_BIG1"
+"MIS_EDEQ1,MIS_EDEQ2"	MIS_EDEQ1	"RES_EDWEQ1"	"NEMMR"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	17	0	0	""	0	0	0	0	1	5	2	40	"EXP_EQ1"
+"MIS_EDEQ1,MIS_EDEQ2"	MIS_EDEQ2	"RES_EDWEQ2"	"NEMMR"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	17	0	0	""	0	0	0	0	1	5	2	60	"EXP_EQ1"
+"MIS_EDG1,MIS_EDG2,MIS_EDG3,MIS_EDG4"	MIS_EDG1	""	"NEMG"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	10	0	0	""	0	120	0	0	0	1	2	50	"EXP_ROCKET_SM1"
+"MIS_EDG1,MIS_EDG2,MIS_EDG3,MIS_EDG4"	MIS_EDG2	"RES_ED_MHC2"	"NEMG"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	10	0	0	""	0	120	0	0	0	1	2	55	"EXP_ROCKET_SM1"
+"MIS_EDG1,MIS_EDG2,MIS_EDG3,MIS_EDG4"	MIS_EDG3	"RES_ED_MHC3"	"NEMG"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	10	0	0	""	0	120	0	1	1	2	2	60	"EXP_ROCKET_SM1"
+"MIS_EDG1,MIS_EDG2,MIS_EDG3,MIS_EDG4"	MIS_EDG4	"RES_ED_MHC4"	"NEMG"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	10	0	0	""	0	120	0	1	1	2	2	65	"EXP_ROCKET_SM1"

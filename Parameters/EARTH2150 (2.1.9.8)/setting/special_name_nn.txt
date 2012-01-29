@@ -1,0 +1,2 @@
+"group"	"objectID"	"neededResearches"	"specialName"
+"__SPECIAL_NAMES_FIRST__"	__SPECIAL_NAMES_FIRST__	""	""

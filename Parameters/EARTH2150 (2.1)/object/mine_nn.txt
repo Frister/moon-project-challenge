@@ -1,0 +1,2 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"hp"	"regenerationHP"	"armor"	"calorificCapacity"	"disableResist"	"storeableFlags"	"standType"	"mineSize"	"mineTypeOfDamage"	"mineDamage"
+"EDMINE"	EDMINE	""	"EDWMI"	0	0	25	0	""	""	"EXP_FIRE_MED1"	""	1	0	0	0	0	0	1	1	3	750

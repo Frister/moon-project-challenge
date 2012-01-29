@@ -1,0 +1,3 @@
+"group"	"objectID"	"neededResearches"	"specialMesh"	"specialMeshViewParamIndex"
+"__SPECIAL_MESHES_FIRST__,SPECIAL_MESH_NEW_OBJECT"	__SPECIAL_MESHES_FIRST__	""	""	0
+"__SPECIAL_MESHES_FIRST__,SPECIAL_MESH_NEW_OBJECT"	SPECIAL_MESH_NEW_OBJECT	""	"NEXTANK"	1

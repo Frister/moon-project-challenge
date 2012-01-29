@@ -1,0 +1,2 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"rangeOfSight"	"plugType"	"slotType"	"maxAlphaPerTick"	"maxBetaPerTick"
+"LCCSB"	LCCSB	""	"LCCSB"	10	11	0	0	""	""	""	""	0	"b28"	""	1	0

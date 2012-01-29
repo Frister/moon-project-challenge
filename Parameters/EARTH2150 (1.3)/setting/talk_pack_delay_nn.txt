@@ -1,0 +1,2 @@
+"group"	"objectID"	"neededResearches"	"selected"	"move"	"attack"	"command"	"enemy"	"help"	"freeWay"
+"TALKPACKDELAYS"	TALKPACKDELAYS	""	9	9	5	5	20	5	5

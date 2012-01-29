@@ -1,0 +1,9 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"rangeOfSight"	"plugType"	"slotType"	"maxAlphaPerTick"	"maxBetaPerTick"	"lookRoundTypeMask"	"lookRoundRange"	"turnSpeed"	"bannerAddExperienceLevel"	"regenerationHPMultiple"	"shieldReloadAdd"
+"EDBANNER"	EDBANNER	""	"EDWBAN"	10	0	200	0	""	""	""	""	3	"b1,11"	""	3	3	1	2	0	2	0	0
+"EDBANNERB"	EDBANNERB	""	"EDCBAN"	10	1	200	0	""	""	""	""	3	"b4,5"	""	3	3	1	3	0	2	0	0
+"EDRADAR1,EDRADAR2,EDRADAR3"	EDRADAR1	""	"EDCRA1"	10	1	200	0	""	""	""	""	4	"b24"	""	3	0	2	3	6	0	0	0
+"EDRADAR1,EDRADAR2,EDRADAR3"	EDRADAR2	"RES_ED_SCR"	"EDCRA2"	10	1	200	0	""	""	""	""	6	"b24"	""	3	0	2	4	8	0	0	0
+"EDRADAR1,EDRADAR2,EDRADAR3"	EDRADAR3	"RES_ED_SCR2"	"EDCRA3"	10	1	200	0	""	""	""	""	6	"b24"	""	3	0	2	5	10	0	0	0
+"EDSCREAMER1,EDSCREAMER2,EDSCREAMER3"	EDSCREAMER1	"RES_ED_SCR"	"EDSSC1"	10	0	200	600	""	""	""	""	2	"b11"	""	3	0	2	2	0	0	0	0
+"EDSCREAMER1,EDSCREAMER2,EDSCREAMER3"	EDSCREAMER2	"RES_ED_SCR2"	"EDSSC2"	10	0	200	600	""	""	""	""	2	"b11"	""	3	0	6	2	0	0	0	0
+"EDSCREAMER1,EDSCREAMER2,EDSCREAMER3"	EDSCREAMER3	"RES_ED_SCR3"	"EDSSC3"	10	0	300	600	""	""	""	""	4	"b11"	""	3	0	6	4	0	0	0	0

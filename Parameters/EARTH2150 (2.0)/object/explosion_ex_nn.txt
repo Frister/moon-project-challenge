@@ -1,0 +1,10 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"hp"	"regenerationHP"	"armor"	"calorificCapacity"	"disableResist"	"storeableFlags"	"standType"	"explosionTicks"	"explosionFlags"
+"EXP_AR1,EXP_AR2,EXP_AR3,EXP_AR4,EXP_AR5"	EXP_AR5	""	"PYSHIELD"	0	0	0	0	"SND_EXP_AR"	""	""	""	0	0	0	0	0	0	0	16	0
+"EXP_EL1,EXP_EL2,EXP_EL3,EXP_EL4,EXP_EL5"	EXP_EL5	""	"PYSHIELD"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	16	0
+"EXP_IO_MED1,EXP_IO_MED2,EXP_IO_MED3,EXP_IO_MED4,EXP_IO_MED5"	EXP_IO_MED5	""	"PYSHIELD"	0	0	0	0	"SND_EXP_IM3"	""	""	""	0	0	0	0	0	0	0	16	0
+"EXP_IO_SM1,EXP_IO_SM2,EXP_IO_SM3,EXP_IO_SM4,EXP_IO_SM5"	EXP_IO_SM5	""	"PYSHIELD"	0	0	0	0	"SND_EXP_IS3"	""	""	""	0	0	0	0	0	0	0	16	0
+"EXP_LA1,EXP_LA2,EXP_LA3,EXP_LA4,EXP_LA5"	EXP_LA5	""	"PYSHIELD"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	16	0
+"EXP_PL_BIG1,EXP_PL_BIG2,EXP_PL_BIG3,EXP_PL_BIG4,EXP_PL_BIG5"	EXP_PL_BIG5	""	"PYSHIELD"	0	0	0	0	"SND_EXP_PB3"	""	""	""	0	0	0	0	0	0	0	16	0
+"EXP_PL_MED1,EXP_PL_MED2,EXP_PL_MED3,EXP_PL_MED4,EXP_PL_MED5"	EXP_PL_MED5	""	"PYSHIELD"	0	0	0	0	"SND_EXP_PM3"	""	""	""	0	0	0	0	0	0	0	16	0
+"EXP_PL_SM1,EXP_PL_SM2,EXP_PL_SM3,EXP_PL_SM4,EXP_PL_SM5"	EXP_PL_SM5	""	"PYSHIELD"	0	0	0	0	"SND_EXP_PS3"	""	""	""	0	0	0	0	0	0	0	16	0
+"EXP_UFO1,EXP_UFO2,EXP_UFO3,EXP_UFO4,EXP_UFO5"	EXP_UFO5	""	"PYSHIELD"	0	0	0	0	"SND_EXP_PS3"	""	""	""	0	0	0	0	0	0	0	16	0

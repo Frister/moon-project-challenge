@@ -1,0 +1,3 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"hp"	"regenerationHP"	"armor"	"calorificCapacity"	"disableResist"	"storeableFlags"	"standType"	"passiveMask"	"$wallCopulaID"
+"LCWRHF,LCWRML,LCWRNH,LCWRART,LCWRPM"	LCWRART	""	"LCWRART"	9	0	0	0	""	"HIT_SMOKE"	"EXP_RUIN_B"	""	200	0	0	0	0	0	0	"b7"	""
+"LCWRHF,LCWRML,LCWRNH,LCWRART,LCWRPM"	LCWRPM	""	"LCWRPM"	9	0	0	0	""	"HIT_SMOKE"	"EXP_RUIN_B"	""	200	0	0	0	0	0	0	"b7"	""

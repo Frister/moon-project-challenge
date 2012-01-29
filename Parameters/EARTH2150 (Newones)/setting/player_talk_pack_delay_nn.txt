@@ -1,0 +1,2 @@
+"group"	"objectID"	"neededResearches"	"talkPackDelay1"	"talkPackDelay2"	"talkPackDelay3"	"talkPackDelay4"	"talkPackDelay5"	"talkPackDelay6"	"talkPackDelay7"	"talkPackDelay8"	"talkPackDelay9"	"talkPackDelay10"	"talkPackDelay11"	"talkPackDelay12"	"talkPackDelay13"	"talkPackDelay14"	"talkPackDelay15"	"talkPackDelay16"	"talkPackDelay17"	"talkPackDelay18"	"talkPackDelay19"	"talkPackDelay20"	"talkPackDelay21"	"talkPackDelay22"	"talkPackDelay23"	"talkPackDelay24"
+"PLAYERTALKPACKDELAYS"	PLAYERTALKPACKDELAYS	""	60	60	30	60	60	60	60	60	1	5	5	2	2	1	1	4	1	2	2	1	1	3	3	4

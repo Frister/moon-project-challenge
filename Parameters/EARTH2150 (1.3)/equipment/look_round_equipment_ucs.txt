@@ -1,0 +1,10 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"rangeOfSight"	"plugType"	"slotType"	"maxAlphaPerTick"	"maxBetaPerTick"	"lookRoundTypeMask"	"lookRoundRange"	"turnSpeed"	"bannerAddExperienceLevel"	"regenerationHPMultiple"	"shieldReloadAdd"
+"UCSBANNER"	UCSBANNER	""	"UCSWBAN"	10	0	200	0	""	""	""	""	3	"b1,11"	""	3	3	1	2	0	2	0	0
+"UCSBANNERB"	UCSBANNERB	""	"UCSCBAN"	10	0	200	0	""	""	""	""	3	"b4,5"	""	3	3	1	3	0	2	0	0
+"UCSRADAR1"	UCSRADAR1	"RES_UCS_SHD"	"EDSSC1"	10	0	200	600	""	""	""	""	2	"b11"	""	3	0	2	1	0	0	0	0
+"UCSSHADOW1,UCSSHADOW2,UCSSHADOW3"	UCSSHADOW1	"RES_UCS_SHD"	"UCSCSH1"	10	0	200	600	""	""	""	""	2	"b25"	""	3	0	8	1	0	0	0	0
+"UCSSHADOW1,UCSSHADOW2,UCSSHADOW3"	UCSSHADOW2	"RES_UCS_SHD2"	"UCSCSH2"	10	0	200	600	""	""	""	""	2	"b25"	""	3	0	8	2	0	0	0	0
+"UCSSHADOW1,UCSSHADOW2,UCSSHADOW3"	UCSSHADOW3	"RES_UCS_SHD3"	"UCSCSH3"	10	0	200	600	""	""	""	""	2	"b25"	""	3	0	8	3	0	0	0	0
+"UCSWSH1,UCSWSH2,UCSWSH3"	UCSWSH1	"RES_UCS_SHD2"	"UCSWSH1"	10	0	1000	600	""	""	""	""	2	"b11"	""	3	0	8	1	0	0	0	0
+"UCSWSH1,UCSWSH2,UCSWSH3"	UCSWSH2	"RES_UCS_SHD3"	"UCSWSH2"	10	0	1000	600	""	""	""	""	2	"b11"	""	3	0	8	2	0	0	0	0
+"UCSWSH1,UCSWSH2,UCSWSH3"	UCSWSH3	"RES_UCS_SHD4"	"UCSWSH3"	10	0	1000	600	""	""	""	""	2	"b11"	""	3	0	8	3	0	0	0	0

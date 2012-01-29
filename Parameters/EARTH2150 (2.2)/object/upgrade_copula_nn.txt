@@ -1,0 +1,7 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"rangeOfSight"	"plugType"	"slotType"	"maxAlphaPerTick"	"maxBetaPerTick"
+"EDCBU1,EDCBU2"	EDCBU1	""	"EDCBU"	10	0	0	0	"SND_UPGCOPULA"	""	""	""	0	"b4,12"	"b4"	0	0
+"EDCBU1,EDCBU2"	EDCBU2	""	"EDCBU"	10	0	0	0	"SND_UPGCOPULA"	""	""	""	0	"b5"	"b5"	0	0
+"LCCBU1,LCCBU2"	LCCBU1	""	"LCCBU"	10	0	0	0	"SND_UPGCOPULA"	""	""	""	0	"b4,12"	"b4"	0	0
+"LCCBU1,LCCBU2"	LCCBU2	""	"LCCBU"	10	0	0	0	"SND_UPGCOPULA"	""	""	""	0	"b5"	"b5"	0	0
+"UCSCBU1,UCSCBU2"	UCSCBU1	""	"UCSCBU1"	10	0	0	0	"SND_UPGCOPULA"	""	""	""	0	"b4,12"	"b4"	0	0
+"UCSCBU1,UCSCBU2"	UCSCBU2	""	"UCSCBU2"	10	0	0	0	"SND_UPGCOPULA"	""	""	""	0	"b5"	"b5"	0	0

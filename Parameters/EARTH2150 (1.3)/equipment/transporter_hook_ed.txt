@@ -1,0 +1,2 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"rangeOfSight"	"plugType"	"slotType"	"maxAlphaPerTick"	"maxBetaPerTick"	"animTransporterDownStart"	"animTransporterDownEnd"	"animTransporterUpStart"	"animTransporterUpEnd"	"angleToGetPut"	"angleOfGetUnitByLandTransporter"	"takeHeight"
+"EDSUT"	EDSUT	"RES_MISSION_PACK1_ONLY"	"EDSUT"	10	1	100	100	"SND_CONT"	""	""	""	2	"b0,10"	""	3	0	0	5	5	0	0	0	5

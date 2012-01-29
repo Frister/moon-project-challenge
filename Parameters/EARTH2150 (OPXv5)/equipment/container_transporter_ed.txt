@@ -1,0 +1,3 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"rangeOfSight"	"plugType"	"slotType"	"maxAlphaPerTick"	"maxBetaPerTick"	"animContainerDownStart"	"animContainerDownEnd"	"animContainerUpStart"	"animContainerUpEnd"
+"EDSACA1"	EDSACA1	""	"EDSACA"	10	1	100	100	"SND_CONT"	""	""	""	2	"b0,10"	""	3	0	0	40	41	60
+"EDSCA1"	EDSCA1	""	"EDSCA"	10	1	100	100	"SND_CONT"	""	""	""	2	"b9"	""	3	0	0	24	25	48

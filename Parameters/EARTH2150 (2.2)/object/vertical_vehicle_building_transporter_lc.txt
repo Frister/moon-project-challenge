@@ -1,0 +1,4 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"hp"	"regenerationHP"	"armor"	"calorificCapacity"	"disableResist"	"storeableFlags"	"standType"	"sightRange"	"$talkPackID"	"$shieldGeneratorID"	"maxShieldUpdate"	"slot1Type"	"slot2Type"	"slot3Type"	"slot4Type"	"vehicleSpeed"	"verticalVehicleAnimationType"	"$builderLineID"
+"LCUBU,LCUBU2,LCUBU3"	LCUBU	""	"LCUBU1"	8	12	500	100	"SND_LCUAB"	"HIT_SMOKE"	"EXP_UNIT_A"	""	600	0	25	100	200	1	0	0	""	""	-1	""	""	""	""	10	0	"LCUBULINE"
+"LCUBU,LCUBU2,LCUBU3"	LCUBU2	""	"LCUBU1"	8	12	500	100	"SND_LCUAB"	"HIT_SMOKE"	"EXP_UNIT_A"	""	600	0	25	100	200	1	0	0	""	""	-1	""	""	""	""	18	0	"LCUBULINE"
+"LCUBU,LCUBU2,LCUBU3"	LCUBU3	""	"LCUBU1"	8	12	500	100	"SND_LCUAB"	"HIT_SMOKE"	"EXP_UNIT_A"	""	600	0	25	100	200	1	0	0	""	""	-1	""	""	""	""	11	0	"LCUBULINE"

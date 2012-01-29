@@ -1,0 +1,3 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"hp"	"regenerationHP"	"armor"	"calorificCapacity"	"disableResist"	"storeableFlags"	"standType"	"sightRange"	"$talkPackID"	"$shieldGeneratorID"	"maxShieldUpdate"	"slot1Type"	"slot2Type"	"slot3Type"	"slot4Type"	"positionType"
+"EDSSTART_POS"	EDSSTART_POS	""	"EDUSTART"	0	0	0	0	""	""	""	""	10	0	0	1	0	0	964	1	""	""	-1	""	""	""	""	0
+"MARKPOINT"	MARKPOINT	""	"NEXMARK"	0	0	0	0	""	""	""	""	10	0	0	1	0	0	964	1	""	""	-1	""	""	""	""	1

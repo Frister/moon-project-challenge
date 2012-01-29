@@ -1,0 +1,5 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"hp"	"regenerationHP"	"armor"	"calorificCapacity"	"disableResist"	"storeableFlags"	"standType"	"passiveMask"	"$wallCopulaID"
+"NEXLCUCU,NEXLCUCR,NEXLCUMO,NEXLCULU"	NEXLCUCU	""	"NEXLCUCU"	6	0	0	0	""	"HIT_SMOKE"	"EXP_WRECK_B"	""	70	0	0	0	0	0	1	"b7"	""
+"NEXLCUCU,NEXLCUCR,NEXLCUMO,NEXLCULU"	NEXLCUCR	""	"NEXLCUCR"	6	0	0	0	""	"HIT_SMOKE"	"EXP_WRECK_S"	""	60	0	0	0	0	0	1	"b7"	""
+"NEXLCUCU,NEXLCUCR,NEXLCUMO,NEXLCULU"	NEXLCUMO	""	"NEXLCUMO"	6	0	0	0	""	"HIT_SMOKE"	"EXP_WRECK_S"	""	50	0	0	0	0	0	1	"b7"	""
+"NEXLCUCU,NEXLCUCR,NEXLCUMO,NEXLCULU"	NEXLCULU	""	"NEXLCULU"	6	0	0	0	""	"HIT_SMOKE"	"EXP_WRECK_S"	""	40	0	0	0	0	0	1	"b7"	""

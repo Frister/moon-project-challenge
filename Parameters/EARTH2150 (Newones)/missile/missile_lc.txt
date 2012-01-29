@@ -1,0 +1,4 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"hp"	"regenerationHP"	"armor"	"calorificCapacity"	"disableResist"	"storeableFlags"	"standType"	"type"	"rocketType"	"missileSize"	"$rocketDummyID"	"isAntiRocketTarget"	"speed"	"timeOfShoot"	"plusRangeOfFire"	"hitType"	"hitRange"	"typeOfDamage"	"damage"	"$explosionID"
+"MIS_LCART"	MIS_LCART	""	"NEMAR"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	10	0	0	""	0	64	0	0	1	3	3	1300	"EXP_FIRE_BIG1"
+"MIS_LCEQ1,MIS_LCEQ2"	MIS_LCEQ1	"RES_LCWEQ1"	"NEMMR"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	17	0	0	""	0	0	0	0	1	5	2	40	"EXP_EQ1"
+"MIS_LCEQ1,MIS_LCEQ2"	MIS_LCEQ2	"RES_LCWEQ2"	"NEMMR"	0	0	0	0	""	""	""	""	0	0	0	0	0	0	0	17	0	0	""	0	0	0	0	1	5	2	60	"EXP_EQ1"

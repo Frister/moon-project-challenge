@@ -1,0 +1,11 @@
+"group"	"objectID"	"neededResearches"	"mesh"	"shadowType"	"viewParamsIndex"	"price"	"timeOfBuild"	"$soundPackID"	"$smokeID"	"$killExplosionID"	"$destructedID"	"rangeOfSight"	"plugType"	"slotType"	"maxAlphaPerTick"	"maxBetaPerTick"	"lookRoundTypeMask"	"lookRoundRange"	"turnSpeed"	"bannerAddExperienceLevel"	"regenerationHPMultiple"	"shieldReloadAdd"
+"LCBANNER"	LCBANNER	""	"UCSWBAN"	10	0	200	0	""	""	""	""	3	"b1,11"	""	3	3	1	2	0	2	0	0
+"LCBANNERB"	LCBANNERB	""	"UCSCBAN"	10	0	200	0	""	""	""	""	3	"b4,5"	""	3	3	1	3	0	2	0	0
+"LCSOB1,LCSOB2"	LCSOB1	""	"LCSOB1"	10	1	200	400	""	""	""	""	3	"b9"	""	3	0	2	3	0	0	0	0
+"LCSOB1,LCSOB2"	LCSOB2	"RES_LC_SOB2"	"LCSOB2"	10	1	200	400	""	""	""	""	3	"b9"	""	3	0	2	6	0	0	0	0
+"LCSREG1,LCSREG2,LCSREG3"	LCSREG1	"RES_LC_REG1"	"LCSREG1"	10	1	200	1000	""	""	""	""	2	"b9"	""	3	0	16	1	0	0	2	0
+"LCSREG1,LCSREG2,LCSREG3"	LCSREG2	"RES_LC_REG2"	"LCSREG2"	10	1	200	1000	""	""	""	""	3	"b9"	""	3	0	16	1	0	0	3	0
+"LCSREG1,LCSREG2,LCSREG3"	LCSREG3	"RES_LC_REG3"	"LCSREG3"	10	1	200	1000	""	""	""	""	3	"b9"	""	3	0	16	1	0	0	4	0
+"LCSSHR1,LCSSHR2,LCSSHR3"	LCSSHR1	"RES_LC_SHR1"	"LCSSHR1"	10	1	200	1000	""	""	""	""	3	"b9"	""	3	0	32	1	0	0	0	2
+"LCSSHR1,LCSSHR2,LCSSHR3"	LCSSHR2	"RES_LC_SHR2"	"LCSSHR2"	10	1	200	1000	""	""	""	""	3	"b9"	""	3	0	32	1	0	0	0	4
+"LCSSHR1,LCSSHR2,LCSSHR3"	LCSSHR3	"RES_LC_SHR3"	"LCSSHR2"	10	1	200	1000	""	""	""	""	3	"b9"	""	3	0	32	1	0	0	0	8
